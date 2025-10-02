@@ -73,7 +73,7 @@
   <a href="tel:+66959474520" class="footer-phone">+66 95 947 4520</a>
 </p>
 
-        <p><strong>Mail:</strong><br />scoopxplorerentals@gmail.com</p>
+        <p><strong>Mail:</strong><br />scootxplorerentals@gmail.com</p>
       </div>
 
       <!-- Blogs -->
@@ -82,19 +82,19 @@
         <ul class="footer-links">
           <li>
             <a href="#"
-              >Can I Join a ScoopXploreRentals Tour If I’m Not an Experienced
+              >Can I Join a scootXploreRentals Tour If I’m Not an Experienced
               Cyclist?</a
             >
           </li>
           <li>
             <a href="#"
-              >Why renting a bike from ScoopXploreRentals is a smart and
+              >Why renting a bike from scootXploreRentals is a smart and
               affordable choice</a
             >
           </li>
           <li>
             <a href="#"
-              >More Than a Bike Ride — What Renting a ScoopXploreRentals Fatbike
+              >More Than a Bike Ride — What Renting a scootXploreRentals Fatbike
               Adds to Your THAILAND Trip</a
             >
           </li>

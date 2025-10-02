@@ -219,7 +219,7 @@
           NEED ASSISTANCE WITH YOUR <span class="highlight">BOOKING?</span>
         </h2>
         <p>
-          At ScoopXploreRentals, our rental team is dedicated to providing
+          At scootXploreRentals, our rental team is dedicated to providing
           top-notch service! We’re available on weekdays from 9:00 AM to 6:00
           PM. Feel free to get in touch with us anytime.
         </p>
@@ -227,7 +227,7 @@
         <ul class="contact-info">
           <li>
             <i class="fa-solid fa-envelope"></i>
-            scoopxplorerentals@gmail.com
+            scootxplorerentals@gmail.com
           </li>
           <li>
             <i class="fa-solid fa-phone"></i>

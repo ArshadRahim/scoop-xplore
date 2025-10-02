@@ -2,7 +2,7 @@
   <PageLayout title="About Us" subtitle="Who we are & what we do">
     <div class="about-container">
       <p>
-        At <strong>ScoopXploreRentals</strong>, we believe that biking is not
+        At <strong>scootXploreRentals</strong>, we believe that biking is not
         just transportation, but an adventure. We started with a mission to
         make biking in Thailand affordable, fun, and accessible for all.
       </p>
